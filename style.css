@@ -1,0 +1,10 @@
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+.image {
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
